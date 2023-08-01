@@ -7,7 +7,7 @@ Presentar las herramientas básicas para el análisis de datos numéricos, exper
 ### Herramientas
 1. Python
 1. Github
-1. $\LaTex$ o Quarto
+1. $\LaTeX$ o Quarto
 1. IA LLM
 1. Storytelling with data
 1. Editor de texto plano
